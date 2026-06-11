@@ -1,0 +1,6 @@
+{
+  "name": "Maat Global Services",
+  "description": "Site officiel de Maat Global Services SARL, entreprise d'architecture, de génie civil et de construction haut de gamme à Kinshasa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
